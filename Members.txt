@@ -8,8 +8,12 @@ WEI JUENE CHONG
 
 MENGZI JIANG
 
-hi guys HELLLO PEOPEPEPEP
- 
-this is confusing
-
 HELLLO PEOEPEOEPOEEPOEPo 
+
+<<<<<<< Updated upstream
+HELLLO PEOEPEOEPOEEPOEPo 
+=======
+hi guys
+ 
+this is confusingwrefwrfiuhewifh
+>>>>>>> Stashed changes
